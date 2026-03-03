@@ -29,9 +29,8 @@ Project ini merupakan implementasi model klasifikasi biner untuk memprediksi apa
 undersampling-tomlek/
 ├── app.py               # Aplikasi Streamlit
 ├── model_xgb.pkl        # Model XGBoost terlatih
-├── diabetes_dataset.csv # Dataset
-├── Untitled.ipynb       # Notebook pembuatan & evaluasi model
-├── requirements.txt     # Daftar dependensi (opsional)
+├── requirements.txt     # Daftar dependensi
+├── .gitignore           # File ignore
 └── venv/                # Virtual environment
 ```
 
